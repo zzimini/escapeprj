@@ -24,7 +24,7 @@ public class EscapeHubApp {
             System.out.println("3. 종료");
             System.out.print("선택 > ");
             System.out.println("git update 연습");
-            System.out.println("git update 연습2");
+            
 
             int choice = sc.nextInt();
             sc.nextLine(); // 엔터 제거
